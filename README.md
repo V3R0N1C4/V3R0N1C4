@@ -27,7 +27,7 @@ University student, final year
 <br/>
 
 ## Languages and Tools  
-[![My Skills](https://skillicons.dev/icons?i=windows,apple,bash,,bootstrap,codepen,css,figma,html,js,nodejs,npm,express,,,,mongodb,mysql,postgres,,latex,md,regex,aiscript,,spring,java,gradle,maven,,,anaconda,py,r,,git,github,gitlab,,idea,pycharm,webstorm,atom,,,twitter,linkedin,notion,gmail,gcp,devto)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,bash,,bootstrap,codepen,css,figma,html,js,nodejs,npm,express,,,,mongodb,mysql,postgres,,latex,md,regex,aiscript,,spring,java,gradle,maven,,,anaconda,py,r,,git,github,gitlab,,idea,pycharm,webstorm,clion,atom,vscode,,twitter,linkedin,notion,gmail,gcp,devto)](https://skillicons.dev)
 
 
 ### Studying
