@@ -31,7 +31,7 @@ University student, final year
 
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=c,cs)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 
 
