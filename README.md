@@ -27,14 +27,14 @@ University student, final year
 <br/>
 
 ## Languages and Tools  
-[![My Skills](https://skillicons.dev/icons?i=windows,apple,bash,linux,,bootstrap,codepen,css,figma,html,js,nodejs,npm,express,,,,mongodb,mysql,postgres,,latex,md,regex,aiscript,,spring,java,gradle,maven,,anaconda,py,r,,git,github,gitlab,,idea,pycharm,webstorm,clion,atom,vscode,,twitter,linkedin,notion,gmail,gcp,devto)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,bash,linux,bootstrap,codepen,css,figma,html,js,nodejs,npm,express,mongodb,mysql,postgres,latex,md,regex,aiscript,spring,java,gradle,maven,anaconda,py,r,git,github,gitlab,idea,pycharm,webstorm,clion,atom,vscode,twitter,linkedin,notion,gmail,gcp,devto)](https://skillicons.dev)
 
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 
-<br />
+<br/>
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
