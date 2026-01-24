@@ -29,8 +29,6 @@ University student, final year
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=V3R0N1C4&layout=compact&langs_count=8&card_width=320&theme=radical"/>
 </a>
 
-![Snake animation](https://github.com/V3R0N1C4/V3R0N1C4/blob/output/github-contribution-grid-snake.svg)
-
 <br/>
 
 ## Languages and Tools  
